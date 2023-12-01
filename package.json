@@ -1,0 +1,20 @@
+{
+  "name": "desci-labs-atomizer",
+  "version": "1.0.0",
+  "description": "Python program atomizer. Collaboration between The EASIER Data Initiative and DeSci Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Nanas",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.10"
+  }
+}
